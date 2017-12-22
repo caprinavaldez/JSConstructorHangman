@@ -1,0 +1,19 @@
+{
+  "name": "jsconstructorhangman",
+  "version": "1.0.0",
+  "description": "Advanced JavaScript Assignment: Constructor Hangman",
+  "main": "letter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caprinavaldez/JSConstructorHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caprinavaldez/JSConstructorHangman/issues"
+  },
+  "homepage": "https://github.com/caprinavaldez/JSConstructorHangman#readme"
+}
